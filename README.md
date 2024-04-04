@@ -44,7 +44,7 @@
 <div align ="center">
   <img src="https://github.com/uzjaee/uzjaee/assets/65279302/c075fe3c-9fd2-46f3-bb60-d3b54965c633" width="200" height="100"/>
   <br/>
-        Devlop Webserver with Sequence Diagram
+        Develop Webserver with Sequence Diagram
         <br/>
         2023.6.26 - 2023.07.07
 </div>
